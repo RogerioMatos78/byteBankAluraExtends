@@ -1,0 +1,13 @@
+package sintaxe_variaveis_fluso;
+
+public class If_Else {
+	public static void main(String[] args) {
+		System.out.println("Testando condicionais");
+		int idade = 20;
+		if(idade >=16) {
+			System.out.println("Vc tem mais de 18 anos");
+		}else {
+			System.out.println("Infelizmente você não pode entrar.");
+		}
+	}
+}

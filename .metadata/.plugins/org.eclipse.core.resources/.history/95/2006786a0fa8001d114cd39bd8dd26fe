@@ -1,0 +1,9 @@
+package sintaxe_variaveis_fluso;
+
+public class TestaVariaveis {
+	
+	System.out.println("ola novo teste");
+	
+	
+
+}

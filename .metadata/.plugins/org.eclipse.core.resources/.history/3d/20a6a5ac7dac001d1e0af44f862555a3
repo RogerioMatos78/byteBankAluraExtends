@@ -1,0 +1,18 @@
+package sintaxe_variaveis_fluso;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Carro meuCarro = new Carro();
+		
+		meuCarro.modelo = "Palio"
+		meuCarro.anoDeFabricacao = 2011;
+		
+		
+		System.out.println("Modelo " + meuCarro.modelo);
+		System.out.println("Ano "+ meuCarro.anoDeFabricacao);
+		System.out.println("Cor " + meuCarro.cor);
+			
+	}
+
+}
